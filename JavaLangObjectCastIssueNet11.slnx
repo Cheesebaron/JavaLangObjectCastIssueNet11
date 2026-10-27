@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="net10cast/net10cast.csproj" />
+  <Project Path="net11cast/net11cast.csproj" />
+</Solution>
